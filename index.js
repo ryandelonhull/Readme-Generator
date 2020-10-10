@@ -144,18 +144,6 @@ async function init() {
       answers.licenseBadge = "err";
     }
     const queryUrl = "https://api.github.com/users/" + (answers.github);
-    //answers.avatar_url = "foo";
-    // axios.get(queryUrl)
-    // .then(function(response){
-    //     console.log(response.data);
-    //     answers.avatar_url = response.data.avatar_url;
-
-
-    // })
-    // .catch(function(error){
-    //     console.log(error);
-    // });
-
  
         try {
           const response = await axios.get(queryUrl);

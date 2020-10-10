@@ -1,7 +1,7 @@
 
-# stuff
+# Super Duper Awesome at Typing Project\
 
-#### stuff
+#### Super duper awesome at typing of course.
 
 
 
@@ -19,44 +19,44 @@
 
 ## Installation 
 
-#### stuff
+#### Running with the Devil
 
 
 
 ## Usage
 
-#### stuff
+#### Across platforms and correctly spelled
 
 
 
 ## License
 
-#### This project is licensed under [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+#### This project is licensed under [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 
 ## Contributing
 
-#### stuff
+#### All the young dudes. 
 
 
 
 ## Tests
 
-#### stuff
+#### npm, nom, mom, and Gary
 
 
 
 ## Questions
 
-#### stuff
+#### Bueller? Bueller? Bueller?
 
 
 
 ## Email address
 
-#### stuff@stuff.gov 
+#### 23scadooo@toodaloo.stuff 
 
 
-![github-thumbnail-image](https://avatars2.githubusercontent.com/u/217226?v=4)
+![github-thumbnail-image](https://avatars3.githubusercontent.com/u/69736836?v=4)
  
